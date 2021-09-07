@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Aristocrot.github.io/rsschool-cv/cv

@@ -1,0 +1,150 @@
+*{
+    box-sizing: border-box;
+    }
+    
+    .body{
+    
+        margin: 0;
+    }
+    
+    .main{
+        font-size: larger;
+    }
+    .main h3{
+    margin: 20px auto 20px;
+    }
+    
+    .header{
+        padding: 30px 30px 10px 30px;
+        text-align: center;
+    }
+    .header img{ 
+    border-radius: 50%;
+    border: 10px solid goldenrod;
+    }
+    
+    .header h2{
+        margin:  auto auto 0 auto;
+    }
+    
+    .contacts{
+        margin: 0;
+    }
+    
+    .contacts h3{
+        color: #ffffff;
+        text-transform: uppercase;
+        background-color: #4B0082;
+        text-align: center; 
+        width: 200px;
+    }
+    
+    
+    .languages h3{
+        color: #ffffff;
+        text-transform: uppercase;
+        background-color: #4B0082;
+        text-align: center;
+        width: 200px;
+    }
+    
+    .languages p{
+        margin: 0;
+    }
+    
+    .languages  ul li{
+        margin: 10px 0 0 0;
+    }
+    
+    
+    
+    .contacts li{
+        margin: 5px 0;
+    }
+    
+    .contacts ol{
+    
+        list-style: none;
+        padding: 0 0 0 10px;
+    }
+    
+    .contacts h4{
+        display: inline;
+        margin: 0;
+        list-style: none;
+    }
+    
+    .container-centr{
+    line-height: 1.5;
+    width: 700px;
+    margin: 20px auto;
+    background: url("./images/background.png") center no-repeat;
+    background-size: cover;
+    box-shadow: 3px 1px 20px -1px;
+    }
+    
+    .two-columns{
+        display: flex;
+    }
+    .left-column{
+        width: 45%;
+        margin: 0%;
+    }
+    
+    .right-column{
+        width: 55%;
+        margin-right: 15px;
+    }
+    .right-column h3{
+        text-transform: uppercase;
+        margin-bottom: 0px;
+        border-bottom: 2px solid coral
+    }
+    .right-column p{
+        font-size: larger;
+        margin-top: 10px;
+        text-align: justify;
+        
+    }
+    .abuout_me p{
+        font-family: "Glory";
+    }
+    
+    .education ul{
+        margin-top: 10px;
+        padding-left: 5px;
+        font-size: larger;
+    }
+    
+    .footer{
+        background-color:darkgrey;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    
+    #rs-logo{
+        width: 70px;
+        height: 50px;
+    }
+    
+    #git-logo{
+        width: 50px;
+        height: 50px;
+    }
+    
+    .RS{
+        margin-left: 10px;
+        width: 70px;
+        height: 50px;
+    }
+    
+    .Git{
+        margin-right: 10px;
+        width: 50px;
+        height: 50px;
+    }
+    
+    .Git img{border-radius: 50%;
+    }
+    
